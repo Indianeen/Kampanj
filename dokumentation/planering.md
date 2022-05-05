@@ -29,7 +29,7 @@ Färdigställa planering
 
 Införing av text
 
-Placera bld3r
+Placera bilder
 
 ## Vecka 18
 
@@ -39,8 +39,11 @@ Placera bld3r
 
 
 ## Vecka 20
+Lägga in färgschema 
 
+hitta bild
 
+komplitera text.
 
 ## Vecka 21 Kristi himmels
 
