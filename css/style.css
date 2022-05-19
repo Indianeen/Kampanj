@@ -1,11 +1,11 @@
 :root {
-    --color-light: hsl(0, 0%, 94%);
-    --color-dark: hsl(0, 0%, 20%);
-    --color-shadow: hsla(0, 0%, 13%, 0.2);
-    --color-primary: hsl(347, 83%, 56%);
-    --color-secondary: hsl(275, 100%, 25%);
+    --color-light: #FCFCFC;
+    --color-dark: #2F2F2F;
+    --color-shadow: #4CC1EA;
+    --color-primary: #8E7BDB;
+    --color-secondary: #26532B;
 
-    --font-sans: "Merriweather Sans", sans-serif;
+    --font-family: 'Raleway', sans-serif;
 }
 
 a {
@@ -150,6 +150,7 @@ body {
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 .btn:hover {
+    color: #4CC1EA;
     background-color: var(--color-primary);
 }
 
